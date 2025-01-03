@@ -62,8 +62,8 @@ The tasks of this room cover the following topics:
 **The various techniques of Reconnaissance include**
 
 * [Whois Footprinting](https://github.com/sbourziq1337/Web-Reconnaissance/blob/main/Whois%20Footprinting.md)
-* [[DNS Footprinting]]
-* [[ Search Engine Discovery]]
+* [DNS Footprinting](https://github.com/sbourziq1337/Web-Reconnaissance/blob/main/DNS%20Footprinting.md)
+* [ Search Engine Discovery](https://github.com/sbourziq1337/Web-Reconnaissance/blob/main/Search%20Engine%20Discovery.md)
 
 Web reconnaissance lays the foundation for identifying vulnerabilities and ensuring effective penetration testing. By understanding and applying both active and passive methodologies, you can maximize your information-gathering efforts while minimizing the risk of detection.
 
