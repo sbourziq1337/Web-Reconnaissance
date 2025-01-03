@@ -153,4 +153,4 @@ ftp     IN CNAME www.example.com.
 
 * Understanding DNS is crucial for navigating the internet, from resolving domain names to troubleshooting connectivity issues. As we’ve seen, DNS involves a hierarchy of servers and records that work together to provide fast and reliable resolution of domain names. Whether you’re a web developer, a network administrator, or someone interested in improving your cybersecurity knowledge, mastering DNS concepts is an essential skill.
 
-**For learning how to use DNS tools**, check out the [[DNS Tools]] section above for detailed instructions and examples of popular tools used in DNS management and analysis.
+**For learning how to use DNS tools**, check out the [DNS Tools](https://github.com/sbourziq1337/Web-Reconnaissance/blob/main/DNS%20Tools.md) section above for detailed instructions and examples of popular tools used in DNS management and analysis.
