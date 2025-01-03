@@ -58,7 +58,7 @@ The tasks of this room cover the following topics:
 ### Techniques of Footprinting
 -------------------------------------
 
-![Web Reconnaissance](/module%20hackthebox/Information%20Gathering%20-%20Web%20Edition/Web%20Reconnaissance.png.webp)
+![Web Reconnaissance](https://raw.githubusercontent.com/sbourziq1337/Web-Reconnaissance/refs/heads/main/Web%20Reconnaissance.png.webp)
 **The various techniques of Reconnaissance include**
 
 * [[Whois Footprinting]]
