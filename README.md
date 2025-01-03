@@ -61,7 +61,7 @@ The tasks of this room cover the following topics:
 ![Web Reconnaissance](https://raw.githubusercontent.com/sbourziq1337/Web-Reconnaissance/refs/heads/main/Web%20Reconnaissance.png.webp)
 **The various techniques of Reconnaissance include**
 
-* [[Whois Footprinting]]
+* [Whois Footprinting](https://github.com/sbourziq1337/Web-Reconnaissance/blob/main/Whois%20Footprinting.md)
 * [[DNS Footprinting]]
 * [[ Search Engine Discovery]]
 
