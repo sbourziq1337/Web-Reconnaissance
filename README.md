@@ -21,7 +21,7 @@ The tasks of this room cover the following topics:
 -----------------------------
 * Web reconnaissance encompasses two fundamental methodologies: `active` and `passive` reconnaissance. Each approach offers distinct advantages and challenges, and understanding their differences is crucial for adequate information gathering.
 
- <h3 style="color: Orange;">1. Active Reconnaissance</h3>
+ ### <h3 style="color: Orange;">1. Active Reconnaissance</h3>
 --------------------------------
 ![](https://github.com/sbourziq1337/Web-Reconnaissance/blob/main/cddef8bc0ee2d177a96ea62f680ad28f.png)
 
