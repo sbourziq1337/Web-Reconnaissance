@@ -208,8 +208,7 @@ We will search for `exmple.com` on DNSDumpster to give you a glimpse of the ex
 
 * DNSDumpster will also represent the collected information graphically. DNSDumpster displayed the data from the table earlier as a graph. You can see the DNS and MX branching to their respective servers and also showing the IP addresses.
 
-[[Pasted image 20241231065429.png](![image](https://github.com/user-attachments/assets/f68a7cc3-a785-4ac0-b600-545486257b87)
-)
+[Pasted image 20241231065429.png](https://github.com/sbourziq1337/Web-Reconnaissance/blob/main/Screenshot%20from%202025-01-03%2005-55-24.png)
 ## <h3 style="color: Orange">Virtual Host Discovery Tools</h3>
 ---------------------------------------------
 * While manual analysis of `HTTP headers` and reverse `DNS lookups` can be effective, specialised `virtual host discovery tools` automate and streamline the process, making it more efficient and comprehensive. These tools employ various techniques to probe the target server and uncover potential `virtual hosts`.
