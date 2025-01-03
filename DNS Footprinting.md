@@ -73,7 +73,7 @@ For example:
 ```txt
 0.0.0.0       unwanted-site.com
 ```
-### <h3 style="color: Orange;">Key DNS Concepts=</h3>
+### <h3 style="color: Orange;">Key DNS Concepts</h3>
 --------------------------------------------
 
 * In the `Domain Name System` (`DNS`), a `zone` is a distinct part of the domain namespace that a specific entity or administrator manages. Think of it as a virtual container for a set of domain names. For example, `example.com` and all its subdomains (like `mail.example.com` or `blog.example.com`) would typically belong to the same DNS zone.
