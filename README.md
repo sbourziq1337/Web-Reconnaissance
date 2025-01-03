@@ -42,7 +42,7 @@ The tasks of this room cover the following topics:
 
 ### <h3 style="color: Orange;">2. Passive Reconnaissance</h3>
 -----------------------------------
-![](https://tryhackme-images.s3.amazonaws.com/user-uploads/5f04259cf9bf5b57aed2c476/room-content/f8b6de84195f6ce2a517b8985497e80f.png)
+![](https://github.com/sbourziq1337/Web-Reconnaissance/blob/main/dbda3c79cc81408315a218749030256a.png)
 * In contrast, passive reconnaissance involves gathering information about the target **`without directly interacting`** with it. This relies on analysing publicly available information and resources, such as:
 
 |Technique|Description|Example|Tools|Risk of Detection|
