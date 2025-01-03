@@ -2,7 +2,7 @@
 
 ---
 
-![](https://tryhackme-images.s3.amazonaws.com/user-uploads/5f04259cf9bf5b57aed2c476/room-content/f94dadbbcf2c644230d6eb310e159ed5.png)
+![](https://github.com/sbourziq1337/Web-Reconnaissance/blob/main/f94dadbbcf2c644230d6eb310e159ed5.png)
 
 Social engineering reconnaissance focuses on gathering information by manipulating people or exploiting human psychology. Unlike technical methods, this approach targets individuals within an organization rather than systems or networks, extracting sensitive information through human interaction.
 
