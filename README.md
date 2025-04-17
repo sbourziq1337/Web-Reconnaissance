@@ -1,7 +1,6 @@
 # Web Reconnaissance
 -------------------------------
 The tasks of this room cover the following topics:
-> [!tip] Use this note as a seed for deeper journaling or linking insights.
 
 - Types of reconnaissance activities
 - WHOIS and DNS-based reconnaissance
